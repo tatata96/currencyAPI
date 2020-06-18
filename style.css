@@ -1,0 +1,19 @@
+img {
+  max-width: 36px;
+}
+
+#dropdownMenuButton {
+  width: -webkit-fill-available;
+  width: -moz-available;
+  background-color: rgb(173, 196, 196);
+  border: none;
+}
+
+.dropdown-menu.show {
+  width: -webkit-fill-available;
+  width: -moz-available;
+  background-color: rgb(235, 241, 241);
+}
+.dropdown-item {
+  text-align: center;
+}
